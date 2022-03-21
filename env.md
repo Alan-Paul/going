@@ -1,9 +1,13 @@
 #环境搭建
 版本：go1.17.2
 步骤：
+
 1、官网https://go.dev/dl/ 下载对应版本的包
+
 2、解压至 /usr/local/go
+
 3、环境变量：export PATH=$PATH:/usr/local/go/bin  
+
 按如下方式，修改go env
 ```
 # 打开 go mod 模式
