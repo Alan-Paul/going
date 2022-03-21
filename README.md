@@ -1,0 +1,2 @@
+# going
+notes of go
