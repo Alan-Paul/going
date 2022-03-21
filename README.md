@@ -1,2 +1,2 @@
 # going
-notes of go
+学习go的笔记
